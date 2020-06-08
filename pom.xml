@@ -33,7 +33,10 @@
 		<javax-rs.version>2.1.1</javax-rs.version>
 		<postgresql.version>42.2.12</postgresql.version>
 		<javax.validation.version>2.0.1.Final</javax.validation.version>
-	</properties>
+		<sonar.projectKey>stop-covid_submission-code-server</sonar.projectKey>
+		<sonar.organization>stop-covid</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  	</properties>
 
 	<dependencies>
 
