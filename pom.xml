@@ -31,7 +31,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.jar.plugin.version>3.1.1</maven.jar.plugin.version>
 		<javax-rs.version>2.1.1</javax-rs.version>
-		<postgresql.version>42.2.12</postgresql.version>
+		<postgresql.version>42.3.3</postgresql.version>
 		<javax.validation.version>2.0.1.Final</javax.validation.version>
 		<sonar.projectKey>stop-covid_submission-code-server</sonar.projectKey>
 		<sonar.organization>stop-covid</sonar.organization>
